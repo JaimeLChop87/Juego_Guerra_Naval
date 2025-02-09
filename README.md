@@ -9,7 +9,7 @@ Este es un juego clásico de estrategia naval donde dos jugadores se enfrentan e
 1. Clona este repositorio:
 
    ```bash
-   git clone [https://github.com/tu-usuario/batalla-naval-terminal.git](https://github.com/tu-usuario/batalla-naval-terminal.git)
+   git clone (https://github.com/JaimeLChop87/Juego_Guerra_Naval.git)
 
 2. NAvegar al directorio del juego
 

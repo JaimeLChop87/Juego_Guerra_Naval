@@ -364,7 +364,7 @@ class Guerra_naval():
  
                         
 if __name__ == "__main__":
-    app = Guerra_naval() 
+    app= Guerra_naval() 
 
     app.menu_inicial()
 
