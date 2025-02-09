@@ -361,10 +361,11 @@ class Guerra_naval():
             print (f"jugador {jugadorespartida[0]} ganador ")
         else:
              print (f"jugador {jugadorespartida[1]} ganador")            
+ 
                         
-                                
-app = Guerra_naval() 
+if __name__ == "__main__":
+    app = Guerra_naval() 
 
-app.menu_inicial()
+    app.menu_inicial()
 
 
